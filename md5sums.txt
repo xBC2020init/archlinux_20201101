@@ -1,0 +1,2 @@
+631b37d563eee0522cb8f439ddc7846e  archlinux-2020.11.01-x86_64.iso
+8e760938c6793b5c3d890b93a2794f16  archlinux-bootstrap-2020.11.01-x86_64.tar.gz
